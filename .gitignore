@@ -1,0 +1,15 @@
+
+# Python virtual environment
+.venv/
+
+# Temporary Python files
+__pycache__/
+*.py[cod]
+
+# Tests cache
+.pytest_cache/
+
+# Temporary VS Code files
+.vscode/
+
+*.egg-info/
