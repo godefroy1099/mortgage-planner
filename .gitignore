@@ -12,4 +12,3 @@ __pycache__/
 # Temporary VS Code files
 .vscode/
 
-*.egg-info/
